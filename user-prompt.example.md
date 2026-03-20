@@ -1,0 +1,66 @@
+# User Prompt
+
+Search jobs:
+- **Keywords:** 
+    - React
+    - Python
+    - Node.js
+    - AWS
+        - EC2
+        - EKS
+        - SQS
+        - S3
+        - RDS
+        - DocumentDB
+    - Docker
+    - Kubernetes
+    - Grafana
+    - Prometheus
+    - PostgreSQL
+    - Redis
+    - SQL
+    - NoSQL
+    - Git
+    - Jest
+    - API
+    - REST
+    - CI/CD
+    - SOLID
+    - Clean Code
+    - MongoDB
+    - Typescript
+    - Javascript
+    - DevOps
+    - SRE
+    - Fullstack
+        - ~~**ONLY** Frontend~~
+        - ~~**ONLY** Backend~~
+    - Junior
+    - Pleno
+    - Scrum
+    - Kanban
+    - Desenvolvedor Software
+    - Engenheiro Software
+    - Programador
+    - Github Actions
+    - IaC (Infrastructure as Code)
+    - HTML
+    - CSS
+    - Javascript
+
+- **Position**:
+    - Published within last 24 hours
+    - Less then 10 applies
+    - Remote **ONLY**
+        - ~~On-site~~
+        - ~~Hybrid~~
+    - Not applied yet
+    - Brazil
+    - Prioritize mid-level and junior positions, but no exclude senior ones
+    - Description in Brazil's Portuguese
+        - ~~Fluent English~~
+
+- **Platforms**:
+    - Indeed
+
+- **Resume / Curriculum vitae (CV)**: `curl` https://docs.google.com/document/d/1GKYKyWx1qEXkPTZ11rU0mClqEQRWIBZH/export?format=pdf

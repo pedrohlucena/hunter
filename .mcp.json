@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "indeed": {
+      "type": "remote",
+      "url": "https://mcp.indeed.com/claude/mcp"
+    }
+  }
+}
