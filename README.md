@@ -1,4 +1,4 @@
-# recruiter
+# hunter
 
 An AI-powered job hunting agent. It searches job platforms for openings that match your profile, evaluates them against your resume, and exports the results as a scored CSV.
 
