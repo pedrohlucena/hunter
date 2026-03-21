@@ -1,0 +1,21 @@
+{
+  "name": "recruiter",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrohlucena/recruiter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrohlucena/recruiter/issues"
+  },
+  "homepage": "https://github.com/pedrohlucena/recruiter#readme",
+  "dependencies": {
+    "@anthropic-ai/claude-code": "^2.1.80",
+    "gh": "^2.8.9"
+  }
+}

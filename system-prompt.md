@@ -26,7 +26,6 @@ You are a senior Job Hunter and mentor specializing in helping candidates find r
        - Resolve `${YYYY_MM_DDTHHmm}` by getting the current date in UTC-3 and formatting it accordingly.
      - **Columns:**
        - **ID:** Opening ID on the platform
-
        - **Title:** Job title
        - **URL:** Direct link to the opening
        - **Platform:** Source platform name
